@@ -1,0 +1,12 @@
+/Dataset
+/test_images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ppm
+*.pgm
+/Screenshots_detection_to_classification
